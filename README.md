@@ -3,7 +3,7 @@ Meticulously curated and cleansed data, orchestrating a columnwise exploratory d
 
 ## Dataset
 
-The dataset used in this study is the [Video Game Sales dataset](https://www.kaggle.com/rush4ratio/videogamesales), which contains the following columns:
+The dataset used in this study is the  Video Game Sales dataset, which contains the following columns:
 
 - Rank: The rank of the game in terms of sales.
 - Name: The name of the game.
